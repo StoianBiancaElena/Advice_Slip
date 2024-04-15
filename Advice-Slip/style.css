@@ -1,0 +1,89 @@
+body {
+  width: 1440px;
+  height: 810px;
+  top: -405px;
+  left: -971px;
+  background: #202632;
+}
+
+.advice-slip .container {
+  width: 540px;
+  height: 335px;
+}
+
+.advice-slip .container .rect {
+  width: 540px;
+  height: 335px;
+  top: 222px;
+  left: 450px;
+  border-radius: 20px;
+  position: center;
+  position: fixed;
+  background-color: #313a49;
+}
+
+.title {
+  color: #53ffab;
+  font-family: StratosWeb;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.1px;
+  text-transform: uppercase;
+  margin-top: 47px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.advice-slip #results {
+  color: #d9d9d9;
+  font-family: StratosWeb;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 468px;
+  margin-bottom: 50px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nota {
+  width: 463px;
+  height: 17px;
+  top: 467px;
+  left: 489px;
+  border-radius: 10px;
+  position: center;
+  position: fixed;
+  border-collapse: collapse;
+}
+
+.cerc {
+  width: 65px;
+  height: 65px;
+  top: 524px;
+  left: 688px;
+  position: fixed;
+}
+
+.zar {
+  width: 28px;
+  height: 28px;
+  top: 543px;
+  left: 707px;
+  position: fixed;
+}
+
+.advice-slip .button-btn {
+  background-color: transparent;
+  width: 65px;
+  height: 65px;
+  top: 524px;
+  left: 688px;
+  position: fixed;
+  position: center;
+  border-radius: 50%;
+  cursor: pointer;
+}
